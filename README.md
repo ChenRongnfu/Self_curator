@@ -10,27 +10,33 @@
 
 <font color="#2F4F4F"> **Python掌握程度** </font>🔋
 
-+ 95% python基础语法 —— 购物车🛒（图1） 
++ 95% python基础语法 —— 购物车🛒（见下图1） 
 
-+ 90% Web应用 + flask框架 —— 颜色（图2）+ 字母查找[点击链接](http://ccrr.pythonanywhere.com/) +日志log
++ 90% Web应用 + flask框架 —— 颜色（见下图2）+ 字母查找[点击链接](http://ccrr.pythonanywhere.com/) +日志log
 
 + 70% 全局变量与局部变量
 
 + 88% 数据库MySQL
 
-+ 70% 类和面向过程编程（简单游戏，图3）
++ 70% 类和面向过程编程（简单游戏，见下图3）
 
 + 20% 推导式（真的真的正在加速研究中🏃)
 
 ![图1](https://gitee.com/CCRR_ZN/2019web/raw/master/img%EF%BC%88readme%EF%BC%89/%E5%9B%BE1%E8%B4%AD%E7%89%A9%E8%BD%A6.png)
+（购物车）
 
 ![图2](https://gitee.com/CCRR_ZN/2019web/raw/master/img%EF%BC%88readme%EF%BC%89/%E5%9B%BE2%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9.png)
+（web_color）
 
 ![图3](https://gitee.com/CCRR_ZN/2019web/raw/master/img%EF%BC%88readme%EF%BC%89/%E5%9B%BE3%E7%B1%BB.png)
+（小游戏）
 
 > 有空也可以康康我的大一期末笔记作业 [点击](http://ccrr_zn.gitee.io/ccrr)
 > >或者是这个小Web网站[点击](http://ccrr_zn.gitee.io/web_html/)
+
+
 <font color="#2F4F4F">正在学习的一些课程（不知道是否有帮助）：用户研究😆、前端开发框架😬、互联网英文信息😑</font>
+
 ***
 ### 个人特点
 + 以大局为重，会做好事情的相关计划🎬并抓紧实现
